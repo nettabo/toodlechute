@@ -1,8 +1,17 @@
 h1. ToodleChuteとは
 
-ToodleChuteは**Toodledoでタスクシュートしたくなるツール**です。
+ToodleChuteは *Toodledoでタスクシュートしたくなるツール* です。
 
 h1. インストール
 
-"ToodleChute":http://dummy/javascript:(function()%7Bdocument.body.appendChild(document.createElement('script')).src='https://github.com/nettabo/toodlechute/raw/master/toodle_chute.min.user.js'%7D)()
+ToodleChuteはブックマークレットです。
 
+下記リンクをブックマーク登録してください。
+"ToodleChute":http://dummy/javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://github.com/nettabo/toodlechute/raw/master/toodle_chute.min.user.js'})()
+
+ブックマークを編集して、先頭の「http://dummy/」の部分を削除してください。
+
+先頭を削除したブックマークレットの内容は以下になります。
+<pre>
+javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://github.com/nettabo/toodlechute/raw/master/toodle_chute.min.user.js'})()
+</pre>
