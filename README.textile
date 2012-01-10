@@ -4,5 +4,5 @@ ToodleChuteは**Toodledoでタスクシュートしたくなるツール**です
 
 h1. インストール
 
-"ToodleChute":javascript:(function()%7Bdocument.body.appendChild(document.createElement('script')).src='https://github.com/nettabo/toodlechute/raw/master/toodle_chute.min.user.js'%7D)()
+"ToodleChute":http://dummy/javascript:(function()%7Bdocument.body.appendChild(document.createElement('script')).src='https://github.com/nettabo/toodlechute/raw/master/toodle_chute.min.user.js'%7D)()
 
