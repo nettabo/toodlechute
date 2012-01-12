@@ -2,7 +2,7 @@ h1. ToodleChuteとは
 
 ToodleChuteは *Toodledoでタスクシュートしたくなるツール* です。
 
-詳しくは "開発ブログ":http://toodlechute.tumblr.com を参照してください。
+詳しくは "開発ブログ":http://toodlechute.tumblr.com/post/15622615991/toodledo-toodlechute を参照してください。
 
 h1. インストール
 
@@ -13,3 +13,7 @@ ToodleChuteはブックマークレットです。
 # 登録したブックマークを編集して、先頭の「http://dummy/」の部分を削除してください。
 ** 先頭を削除したブックマークレットのコードは以下になります。
 <pre>javascript:(function(){document.body.appendChild(document.createElement('script')).src='https://github.com/nettabo/toodlechute/raw/master/toodle_chute.min.user.js'})()</pre>
+
+h1. 発動条件
+
+ToodleChuteの発動条件については "コチラ":http://toodlechute.tumblr.com/post/15728192653/002-toodlechute を参照してください。
